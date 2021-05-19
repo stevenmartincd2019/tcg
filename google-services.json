@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "896564979",
+    "firebase_url": "https://tcgfirebaseproject.firebaseio.com",
+    "project_id": "tcgfirebaseproject",
+    "storage_bucket": "tcgfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896564979:android:0b5b08d0acbbe725a54186",
+        "android_client_info": {
+          "package_name": "com.fus.tcg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896564979-rnj1hfa1ldd56aaf4nq1mrm9ifhvk7tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fus.tcg",
+            "certificate_hash": "40dc31500f3738a8b9e8396254c61ede8a2ad26c"
+          }
+        },
+        {
+          "client_id": "896564979-nge7bcljmpu77orh19nf7p3kcukpmfeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3dylifeWQtDJ8T4ClsMK-O3q6c0aO48U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896564979-nge7bcljmpu77orh19nf7p3kcukpmfeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
